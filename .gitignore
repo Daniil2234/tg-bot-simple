@@ -1,0 +1,26 @@
+ # Виртуальные окружения
+ .venv/
+ venv/
+ env/
+ # Кэш Python
+ __pycache__/
+ *.py[cod]
+ *$py.class
+ # Файлы с секретами
+ .env
+ .env.local
+ .env.*.local
+ # IDE файлы
+ .vscode/
+ .idea/
+ *.swp
+ *.swo
+ # Операционная система
+ .DS_Store
+ Thumbs.db
+ # Логи
+ *.log
+ logs/
+ # Временные файлы
+ *.tmp
+ *.bak
